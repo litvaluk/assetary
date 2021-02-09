@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/assetary/static/css/main.a895757e.chunk.css",
-    "main.js": "/assetary/static/js/main.b777d595.chunk.js",
-    "main.js.map": "/assetary/static/js/main.b777d595.chunk.js.map",
+    "main.css": "/assetary/static/css/main.21f9a8d7.chunk.css",
+    "main.js": "/assetary/static/js/main.4ceecb3b.chunk.js",
+    "main.js.map": "/assetary/static/js/main.4ceecb3b.chunk.js.map",
     "runtime-main.js": "/assetary/static/js/runtime-main.70d22ba4.js",
     "runtime-main.js.map": "/assetary/static/js/runtime-main.70d22ba4.js.map",
     "static/css/2.150d169a.chunk.css": "/assetary/static/css/2.150d169a.chunk.css",
-    "static/js/2.59232c8d.chunk.js": "/assetary/static/js/2.59232c8d.chunk.js",
-    "static/js/2.59232c8d.chunk.js.map": "/assetary/static/js/2.59232c8d.chunk.js.map",
+    "static/js/2.fbea45dc.chunk.js": "/assetary/static/js/2.fbea45dc.chunk.js",
+    "static/js/2.fbea45dc.chunk.js.map": "/assetary/static/js/2.fbea45dc.chunk.js.map",
     "index.html": "/assetary/index.html",
     "static/css/2.150d169a.chunk.css.map": "/assetary/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.a895757e.chunk.css.map": "/assetary/static/css/main.a895757e.chunk.css.map",
-    "static/js/2.59232c8d.chunk.js.LICENSE.txt": "/assetary/static/js/2.59232c8d.chunk.js.LICENSE.txt",
+    "static/css/main.21f9a8d7.chunk.css.map": "/assetary/static/css/main.21f9a8d7.chunk.css.map",
+    "static/js/2.fbea45dc.chunk.js.LICENSE.txt": "/assetary/static/js/2.fbea45dc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/assetary/static/media/logo.488d3dd5.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.70d22ba4.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.59232c8d.chunk.js",
-    "static/css/main.a895757e.chunk.css",
-    "static/js/main.b777d595.chunk.js"
+    "static/js/2.fbea45dc.chunk.js",
+    "static/css/main.21f9a8d7.chunk.css",
+    "static/js/main.4ceecb3b.chunk.js"
   ]
 }
